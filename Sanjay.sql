@@ -1,1 +1,1 @@
-select * from sys.tables
+select * from sys.tables1
